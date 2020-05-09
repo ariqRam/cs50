@@ -24,9 +24,11 @@ TODOs. Lastly, you'll see the `addTodo()` function. This gets executed when
 creating a new TODO. You should replace the `alert()` call with logic to create
 new TODOs.
 
-Good luck!
 
 ## Challenge! (Not Required)
 If you finish early and are up for a challenge, try adding delete functionality.
 This should be in the form of a button within each TODO that removes that TODO
 when clicked. 
+
+## Finished
+I finished the assignment and the additional challenge. The video is put on https://www.youtube.com/watch?v=IUaa1SfzzEg
